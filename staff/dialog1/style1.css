@@ -1,0 +1,25 @@
+
+        .container
+        {
+           
+            top: auto; left: auto; right: auto; bottom: 0px;
+        }
+        .action
+        {
+			position:relative;
+            width: 400px;
+            height: 10px;
+            margin: 50px 0px;
+        }
+		.action1
+        { position:relative;
+			
+            width: 400px;
+            height: 10px;
+            margin: 50px -45px;
+        }
+        .cropped>img
+        {
+            margin-right: 10px;
+        }
+    

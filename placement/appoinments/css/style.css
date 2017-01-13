@@ -1,0 +1,24 @@
+.form_style #contentText {
+	
+}
+.form_style #FormSubmit {
+	
+}
+#responds{
+	
+}
+#responds li {
+	list-style: none;
+	
+	
+
+}
+#responds li.sel {
+	
+}
+.del_wrapper{float:right;}
+.content_wrapper {
+	max-width: 400px;
+	margin-right: auto;
+	margin-left: auto;
+}

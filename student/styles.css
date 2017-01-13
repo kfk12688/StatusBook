@@ -1,0 +1,83 @@
+body,h1,h2,h3,p,quote,small,form,input,ul,li,ol,label{
+	margin:0;
+	padding:0;
+}
+
+body{
+	
+}
+
+#file-manager{
+	
+}
+
+ul.manager li{
+	background:url("img/bg_gradient.gif") repeat-x center bottom #F5F5F5;
+	
+	list-style:none;
+	position:relative;
+}
+
+ul.manager li a{
+	display:block;
+	padding:8px;
+}
+
+ul.manager li a:hover .download-label{
+	display:block;
+}
+
+span.download-label{
+	background-color:#25ad9f;
+	border:1px solid #4E9416;
+	color:white;
+	display:none;
+	font-size:10px;
+	padding:2px 4px;
+	position:absolute;
+	right:200px;
+	text-decoration:none;
+	text-shadow:0 0 1px #315D0D;
+	top:6px;
+	
+	
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+}
+
+span.download-count{
+	color:#25ad9f;
+	font-size:10px;
+	padding:3px 5px;
+	position:absolute;
+	text-decoration:none;
+}
+
+
+h1{
+	
+}
+
+h2 {
+	
+}
+
+a, a:visited {
+	color:#000;
+	text-decoration:none;
+	outline:none;
+}
+
+a:hover{
+	
+}
+
+p.tutInfo{
+	
+	
+}
+
+h1,h2,p.tutInfo{
+	
+}
